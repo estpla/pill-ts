@@ -1,3 +1,3 @@
-# Introduction to GraphQL
+# TypeScript: Utility Types
 
 Author: Esteban Platero Horcajadas
